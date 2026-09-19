@@ -1,5 +1,13 @@
 # nmh5
 
+**32V NM 7815 7096, road-miss danger**
+
+Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen.
+
+**32V NM 7771 7071, Ringkolltoppen**
+
+Peak 4! Beatiful view towards Tyrifjorden.
+
 **32V NM 7817 6622, Damtjern**
 
 Possible exit towards Sundvollen. 12-13 km, depending on route choice. Last roughly two thirds of the way there is hitchhikable.
