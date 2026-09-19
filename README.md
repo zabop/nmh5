@@ -18,7 +18,7 @@ Possible exit towards Smeden. Less than 5km.
 
 **Road-miss danger _32V NM 7815 7096_**
 
-Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen. Also 130 metres further.
+Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen. Similar situation 130 metres further ahead.
 
 **Ringkolltoppen, peak 4! _32V NM 7771 7071_**
 
