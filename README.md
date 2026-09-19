@@ -2,7 +2,7 @@
 
 **32V NM 7815 7096, road-miss danger**
 
-Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen.
+Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen. Also 130 metres further.
 
 **32V NM 7771 7071, Ringkolltoppen**
 
