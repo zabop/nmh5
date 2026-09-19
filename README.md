@@ -4,23 +4,23 @@
 
 Very easy to end up on the road which goes towards West, missing Ringkolltoppen, rather than on the one towards SW leading to Ringkolltoppen. Also 130 metres further.
 
-**32V NM 7771 7071, Ringkolltoppen**
+**32V NM 7771 7071, Ringkolltoppen, peak 4!**
 
 Peak 4! Beatiful view towards Tyrifjorden.
 
-**32V NM 7817 6622, Damtjern**
+**32V NM 7817 6622, Damtjern exit**
 
 Possible exit towards Sundvollen. 12-13 km, depending on route choice. Last roughly two thirds of the way there is hitchhikable.
 
-**32V NM 8002 6366, Langbruhytta**
+**32V NM 8002 6366, Langbruhytta, water**
 
 There is a well here providing non-smelly water which I am pretty sure is drinkable. Local guy asserts it is.
 
-**32V NM 8457 6242, Oppkuven**
+**32V NM 8457 6242, Oppkuven, peak 5!**
 
-Peak 5! From the Lookout, towers at Frognerseteren will be visible. Forest road, mostly down, hard terrain, until we reach the gravel road at:
+From the Lookout, towers at Frognerseteren will be visible. Forest road, mostly down, hard terrain, until we reach the gravel road at:
 
-**32V NM 8577 5963, gravel road towards Sørkedalen | 19:50**
+**32V NM 8577 5963, from here, easy. | 19:50**
 
 From here, it's easy: gravel road until Sørkedalen, turn left at 32V NM 9172 5397 to easy forest path, turn south when reaching the Nordmarkskapellet-Tryvannstua road, get around Store Tryvannet from the southern side (northern side is closed due to Landslide danger), up to Frognerseteren.
 
