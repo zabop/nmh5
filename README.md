@@ -2,7 +2,7 @@
 
 **32V NM 7817 6622, Damtjern**
 
-Possible exit towards Sundvollen.
+Possible exit towards Sundvollen. 12-13 km, depending on route choice. Last roughly two thirds of the way there is hitchhikable.
 
 **32V NM 8002 6366, Langbruhytta**
 
