@@ -1,5 +1,33 @@
 # nmh5
 
+**40 metres of gravel. _From 32V NM 8751 7270 to 32V NM 8749 7273_**
+
+Continue NW.
+
+**Junction? _32V NM 8693 7383_**
+
+Norgeskart differs significantly from OSM here. I went N then W, FKT route is NW. Likely not very consequential choice, in ~250m the two paths meet.
+
+**Dilemma junction _32V NM 8675 7403_**
+
+I tried going WNW direction, which is the stronger path there, but it disappears near Roensætra. We can go NWN, that's a lest prominent path but supposedly does not disappear. It's so not prominent though that it didn't make it to Norgeskart. In around 700m, we'll reach a gravel road.
+
+**Gravel road reached _32V NM 8623 7461_**
+
+Continue North.
+
+**Off the gravel road. _32V NM 8426 7840_**
+
+Left.
+
+**Helgehaugen, peak 1! _32V NM 8421 7915_**
+
+Get down the same way we got up, then W.
+
+**Lamannshaugen, peak 2! _32V NM 8242 7907_**
+
+Turn back, but don't go fully down, turn right at 32V NM 8286 7880.
+
 **Road-miss danger _32V NM 8294 7867_**
 
 SW, not W!
@@ -40,7 +68,7 @@ From the Lookout, towers at Frognerseteren will be visible. Forest road, mostly 
 
 From here, it's easy: gravel road until Sørkedalen, turn left at 32V NM 9172 5397 to easy forest path, turn south when reaching the Nordmarkskapellet-Tryvannstua road, get around Store Tryvannet from the southern side (northern side is closed due to Landslide danger), up to Frognerseteren.
 
-Should be out on the gravel road 32V NM 8577 5963 before it gets very dark. Last time I got there was at 05/09/2026 20:50:03 Oslo time, and it was pushing it. Sunset that day was at [20:08](https://www.timeanddate.com/sun/norway/oslo). On the 26th, sunset will be at [19:04](https://www.timeanddate.com/sun/norway/oslo), roughly an hour earlier. So we should be there at 19:50.
+Should be out on the gravel road 32V NM 8577 5963 before it gets very dark. Last time I got there was at 05/09/2026 20:50, and it was pushing it. Sunset that day was at [20:08](https://www.timeanddate.com/sun/norway/oslo). On the 26th, sunset will be at [19:04](https://www.timeanddate.com/sun/norway/oslo), roughly an hour earlier. So we should be there at 19:50.
 
 ## Sources
 
